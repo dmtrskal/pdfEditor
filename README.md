@@ -1,4 +1,4 @@
-# Project for the academic course "Multimedia Technology" (ECE NTUA )
+# Project for the academic course "Multimedia Technology" 2015-2016 (ECE NTUA )
 PDF Editor Java application (with GUI) for creating and editing PDF files using simple markup syntax
 
 ## Description
