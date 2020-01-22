@@ -1,0 +1,82 @@
+&;Heading1 fontType:1
+Lorem Ipsum
+
+&;Paragraph fontSize:12 fontType:1 fontStyle:3 fontColor:1
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
+in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, 
+sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+&;Heading2 fontType:1
+What is Lorem Ipsum?
+
+&;Paragraph fontSize:12 fontType:1 fontStyle:1 fontColor:1
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever 
+since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only 
+five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with 
+the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
+including versions of Lorem Ipsum.
+
+&;Image scale:0.7
+figure.png
+
+&;Heading3 fontType:1
+Where does it come from?
+
+&;Paragraph fontSize:13 fontType:1 fontStyle:1 fontColor:1
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, 
+making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up 
+one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, 
+discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" 
+(The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. 
+The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+
+&;Paragraph fontSize:14 fontType:1 fontStyle:1 fontColor:1
+The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 
+"de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from 
+the 1914 translation by H. Rackham.
+
+&;Heading4 fontType:1
+Play with other commands ...
+
+&;NewLine
+
+&;Paragraph fontSize:12 fontType:1 fontStyle:3 fontColor:1
+Some Java keywords:
+&;UnorderedList fontSize:12 fontType:1 fontStyle:1 fontColor:1
+abstract	
+implements
+new
+package
+private
+protected
+throw
+
+&;Paragraph fontSize:12 fontType:1 fontStyle:3 fontColor:1
+The eight primitive data types supported by the Java programming language are:
+&;OrderedList fontSize:12 fontType:1 fontStyle:1 fontColor:1
+byte
+short
+int
+long
+float
+double
+boolean
+char
+
+&;Paragraph fontSize:12 fontType:1 fontStyle:1 fontColor:1
+Lorem ipsum dolor sit amet, eum ne civibus epicurei democritum, no sed iriure theophrastus. Vix habemus assentior ei. Vis cu detracto dignissim. 
+Vidisse admodum tractatos at eos, ex sed melius numquam, duo ne aeque sonet oratio.
+
+&;Format fontSize:12 fontType:1 fontStyle:2 fontColor:1
+Usu eirmod constituam omittantur ne, in has alia dicat malorum. An est tale sint brute, ad adolescens definiebas complectitur est.
+
+&;Format fontSize:12 fontType:1 fontStyle:3 fontColor:2
+Tamquam insolens mea ex, mel scripta patrioque ad. Te duo dolor altera. Nonumy latine epicurei ei qui.
+
+&;Format fontSize:15 fontType:1 fontStyle:1 fontColor:3
+Ad sea oratio vocibus, iusto nusquam blandit ea ius. Sed vide erat ei, docendi detraxit sit no, vel ex discere delectus. 
+
+&;Format fontSize:12 fontType:1 fontStyle:4 fontColor:1
+Reque postea postulant et duo. Ne wisi moderatius quo, principes consetetur nam ut, suas probatus insolens ei eam. 
+Eu vis error convenire, est cu sonet incorrupte voluptatibus.
